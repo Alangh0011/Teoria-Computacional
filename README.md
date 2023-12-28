@@ -4,13 +4,13 @@ Este repositorio contiene una serie de programas implementados como parte de las
 
 ## Prácticas
 
-1. [Programa 1 - Universo](practica_1/README.md)
-2. [Programa 2 - Protocolo](practica_2/README.md)
-3. [Programa 3 - Tablero](practica_3/README.md)
-4. [Programa 4 - Buscador de Palabras](practica_4/README.md)
-5. [Programa 5 - Expresión Regular](practica_5/README.md)
-6. [Programa 6 - Autómata de Pila](practica_6/README.md)
-7. [Programa 7 - Palíndromos](practica_7/README.md)
-8. [Programa 8 - Gramática No Ambigua](practica_8/README.md)
-9. [Programa 9 - Máquina de Turing](practica_9/README.md)
+1. [Programa 1 - Universo](./Programa%201%20-%20universo/README.md)
+2. [Programa 2 - Protocolo](./programa%202%20-%20protocolo/README.md)
+3. [Programa 3 - Tablero](./programa%203%20-%20tablero/README.md)
+4. [Programa 4 - Buscador de Palabras](./programa%204%20-%20buscador%20de%20palabras/README.md)
+5. [Programa 5 - Expresión Regular](./programa%205%20-%20expresión%20regular/README.md)
+6. [Programa 6 - Autómata de Pila](./programa%206%20-%20autómata%20de%20pila/README.md)
+7. [Programa 7 - Palíndromos](./programa%207%20-%20palindromes/README.md)
+8. [Programa 8 - Gramática No Ambigua](./programa%208%20-%20gramática%20no%20ambigua/README.md)
+9. [Programa 9 - Máquina de Turing](./programa%209%20-%20máquina%20de%20Turing/README.md)
 
